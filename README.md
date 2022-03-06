@@ -12,7 +12,7 @@ As of right now, this pack contains:
 
 Just about all of the textures for skins and such were pulled from [Itembound: Rebound](https://www.planetminecraft.com/texture-pack/itembound-fixed/), go check it out if you ever get the chance.
 
-## Current Knife Skins
+## Knife Skins
 - Default (Just an Iron Sword, what do you expect?)
 - Master Sword
 - 1000 Degree Knife
@@ -40,7 +40,7 @@ Just about all of the textures for skins and such were pulled from [Itembound: R
 - Rapier (Diamond)
 - Pencil (Yellow)
 
-## Current Gun Skins
+## Gun Skins
 - Default (The standard Bow. Again, what are you expecting here?)
 - Rain-bow
 - Candy Cannon
