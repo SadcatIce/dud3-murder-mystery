@@ -1,5 +1,5 @@
-# dud3-murder-mystery
-This resource pack contains additional things that are used in Dud3's murder mystery map, and while not required, are recommended to have. The main goal of this pack is to add additional cosmetics without overwriting any base game textures and sounds.
+# The Murder Mystery Resource Pack
+This resource pack contains additional things that are used in Dud3's murder mystery map, and while not required, are recommended to have. The main goal of this pack is to add additional cosmetic stuff without overwriting any base game textures or sounds.
 
 As of right now, this pack contains:
 - Knife skins
@@ -86,4 +86,4 @@ These pale in comparison to the knife skins because bows are a bit harder to get
 - Spamton
 - Wario's Gold Mine (MK8, Frontrunning)
 
-There's other miscellaneous sounds I didn't list here, but you'll probably eventually hear them one way or another.
+There's other miscellaneous sounds I didn't list here, but you'll probably eventually hear them one way or another. Who knows.
