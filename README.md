@@ -5,7 +5,7 @@ As of right now, this pack contains:
 - Knife skins
 - Gun skins
 - ~~Hats~~ This is currently impossible because armor doesn't support CustomModelData and block models are a pain to work with. Blame Mojang.
-- Custom death sounds
+- Selectable death sounds
 - Various other sound effects
 - Music
 - Other graphics and icons mostly used by kit items
