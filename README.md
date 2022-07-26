@@ -13,7 +13,7 @@ As of right now, this pack contains:
 Just about all of the textures for skins and such were pulled from [Itembound: Rebound](https://www.planetminecraft.com/texture-pack/itembound-fixed/), go check it out if you ever get the chance.
 
 ## Knife Skins
-- Default (Just an Iron Sword, what do you expect?)
+- Default (Just an Iron Sword, what did you expect?)
 - Master Sword
 - 1000 Degree Knife
 - Brick
@@ -39,6 +39,11 @@ Just about all of the textures for skins and such were pulled from [Itembound: R
 - Budget Masamune
 - Rapier (Diamond)
 - Pencil (Yellow)
+- Among Us Kill Button (yes, really)
+- Dual Lightsaber
+- Snow Shovel
+- Battle Axe
+- Fidget Spinnner (red)
 
 ## Gun Skins
 - Default (The standard Bow. Again, what are you expecting here?)
@@ -52,7 +57,7 @@ These pale in comparison to the knife skins because bows are a bit harder to get
 
 ## Kit/misc stuff
 - The Radar Scan, Heartbeat Sensor, Datapad and Phone all have their own graphics to distinguish them easier when players are holding them.
-- Murderer Ghost also has a graphic for it.
+- Murderer Ghost and the shotgun also have custom graphics.
 
 ## Death Sounds/Music
 - Bonk (plays when killing someone with the Bonk Hammer)
