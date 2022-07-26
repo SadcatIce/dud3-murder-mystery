@@ -260,7 +260,7 @@
 		]
 	},
 	
-		"doom": {
+	"doom": {
 		"sounds": [
 			{
 				"name": "music/doom",
@@ -269,7 +269,7 @@
 		]
 	},
 	
-		"mario-64-endless-stairs": {
+	"mario-64-endless-stairs": {
 		"sounds": [
 			{
 				"name": "music/endless-stairs",
@@ -278,7 +278,7 @@
 		]
 	},
 	
-		"mio-honda-step": {
+	"mio-honda-step": {
 		"sounds": [
 			{
 				"name": "music/mio-honda-step",
@@ -287,7 +287,7 @@
 		]
 	},
 	
-		"mario-64-peach-castle": {
+	"mario-64-peach-castle": {
 		"sounds": [
 			{
 				"name": "music/peach-castle",
@@ -296,7 +296,7 @@
 		]
 	},
 	
-		"sans": {
+	"sans": {
 		"sounds": [
 			{
 				"name": "music/sans",
@@ -305,7 +305,7 @@
 		]
 	},
 	
-		"double-dash-sherbet-land": {
+	"double-dash-sherbet-land": {
 		"sounds": [
 			{
 				"name": "music/sherbet-land",
@@ -314,7 +314,7 @@
 		]
 	},
 	
-		"smb3-ghost-house": {
+	"smb3-ghost-house": {
 		"sounds": [
 			{
 				"name": "music/smb3-ghost-house",
@@ -323,7 +323,7 @@
 		]
 	},
 	
-		"wii-warios-gold-mine": {
+	"wii-warios-gold-mine": {
 		"sounds": [
 			{
 				"name": "music/warios-gold-mine",
@@ -336,6 +336,54 @@
 		"sounds": [
 			{
 				"name": "music/spamton",
+				"stream": true
+			}
+		]
+	},
+	"halo-betrayal": {
+		"sounds": [
+			{
+				"name": "misc/betrayal",
+				"stream": true
+			}
+		]
+	},
+	"halo-betrayed": {
+		"sounds": [
+			{
+				"name": "misc/betrayed",
+				"stream": true
+			}
+		]
+	},
+	"sombra-brb": {
+		"sounds": [
+			{
+				"name": "misc/sombra-brb",
+				"stream": true
+			}
+		]
+	},
+	"sombra-might-need-later": {
+		"sounds": [
+			{
+				"name": "misc/sombra-might-need-later",
+				"stream": true
+			}
+		]
+	},
+	"sombra-out-of-here": {
+		"sounds": [
+			{
+				"name": "misc/sombra-out-of-here",
+				"stream": true
+			}
+		]
+	},
+	"sombra-see-you-later": {
+		"sounds": [
+			{
+				"name": "misc/sombra-see-you-later",
 				"stream": true
 			}
 		]
