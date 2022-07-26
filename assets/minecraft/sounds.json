@@ -3,7 +3,7 @@
 		"sounds": [
 			{
 				"name": "misc/bowser-message",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -12,7 +12,7 @@
 		"sounds": [
 			{
 				"name": "misc/mario-64-painting",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -21,7 +21,7 @@
 		"sounds": [
 			{
 				"name": "misc/mario-64-warp",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -30,7 +30,7 @@
 		"sounds": [
 			{
 				"name": "misc/odyssey-moon-get",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -39,7 +39,7 @@
 		"sounds": [
 			{
 				"name": "misc/mario-luigi-attack-piece",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -48,7 +48,7 @@
 		"sounds": [
 			{
 				"name": "misc/mario-luigi-area-select",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -57,7 +57,7 @@
 		"sounds": [
 			{
 				"name": "misc/mario-luigi-select",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -66,7 +66,7 @@
 		"sounds": [
 			{
 				"name": "misc/deltarune-explosion",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -84,7 +84,7 @@
 		"sounds": [
 			{
 				"name": "death/bonk",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -93,7 +93,7 @@
 		"sounds": [
 			{
 				"name": "death/boowomp",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -111,7 +111,7 @@
 		"sounds": [
 			{
 				"name": "death/fnf-loss",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -120,7 +120,7 @@
 		"sounds": [
 			{
 				"name": "death/heheheha",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -129,7 +129,7 @@
 		"sounds": [
 			{
 				"name": "death/madness-combat",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -138,7 +138,7 @@
 		"sounds": [
 			{
 				"name": "death/mario-64",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -147,7 +147,7 @@
 		"sounds": [
 			{
 				"name": "death/mario-galaxy",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -165,7 +165,7 @@
 		"sounds": [
 			{
 				"name": "death/mario-world",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -174,7 +174,7 @@
 		"sounds": [
 			{
 				"name": "death/solid-snake",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -183,7 +183,7 @@
 		"sounds": [
 			{
 				"name": "death/steel-sting",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -192,7 +192,7 @@
 		"sounds": [
 			{
 				"name": "death/sus",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -201,7 +201,7 @@
 		"sounds": [
 			{
 				"name": "death/sus-alternate",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -210,7 +210,7 @@
 		"sounds": [
 			{
 				"name": "death/undertale-deltarune",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -219,7 +219,7 @@
 		"sounds": [
 			{
 				"name": "death/vine-boom",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -228,7 +228,7 @@
 		"sounds": [
 			{
 				"name": "death/waluigi",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -237,7 +237,7 @@
 		"sounds": [
 			{
 				"name": "death/wario",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -337,6 +337,38 @@
 			{
 				"name": "music/spamton",
 				"stream": true
+			}
+		]
+	},
+	"sombra-brb": {
+		"sounds": [
+			{
+				"name": "misc/sombra-brb",
+				"stream": false
+			}
+		]
+	},
+	"sombra-might-need-later": {
+		"sounds": [
+			{
+				"name": "misc/sombra-might-need-later",
+				"stream": false
+			}
+		]
+	},
+	"sombra-out-of-here": {
+		"sounds": [
+			{
+				"name": "misc/sombra-out-of-here",
+				"stream": false
+			}
+		]
+	},
+	"sombra-see-you-later": {
+		"sounds": [
+			{
+				"name": "misc/sombra-see-you-later",
+				"stream": false
 			}
 		]
 	}

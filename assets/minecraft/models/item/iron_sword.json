@@ -29,6 +29,11 @@
 		{"predicate": {"custom_model_data":22}, "model": "item/iron_sword/22"},
 		{"predicate": {"custom_model_data":23}, "model": "item/iron_sword/23"},
 		{"predicate": {"custom_model_data":24}, "model": "item/iron_sword/24"},
-		{"predicate": {"custom_model_data":25}, "model": "item/iron_sword/25"}
+		{"predicate": {"custom_model_data":25}, "model": "item/iron_sword/25"},
+		{"predicate": {"custom_model_data":26}, "model": "item/iron_sword/26"},
+		{"predicate": {"custom_model_data":27}, "model": "item/iron_sword/27"},
+		{"predicate": {"custom_model_data":28}, "model": "item/iron_sword/28"},
+		{"predicate": {"custom_model_data":29}, "model": "item/iron_sword/29"},
+		{"predicate": {"custom_model_data":30}, "model": "item/iron_sword/30"}
 	]
 }
