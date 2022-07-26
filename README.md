@@ -46,6 +46,8 @@ Just about all of the textures for skins and such were pulled from [Itembound: R
 - Fidget Spinnner (red)
 - Energy Sword (Halo)
 
+Some of the knife skins have special kill sound effects.
+
 ## Gun Skins
 - Default (The standard Bow. Again, what are you expecting here?)
 - Rain-bow
