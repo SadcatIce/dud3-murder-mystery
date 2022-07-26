@@ -371,5 +371,21 @@
 				"stream": false
 			}
 		]
-	}
+	},
+	"halo-betrayal": {
+		"sounds": [
+			{
+				"name": "misc/betrayal",
+				"stream": false
+			}
+		]
+	},
+	"halo-betrayed": {
+		"sounds": [
+			{
+				"name": "misc/betrayed",
+				"stream": false
+			}
+		]
+	},
 }
