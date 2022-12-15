@@ -22,12 +22,12 @@ Just about all of the textures for skins and such were pulled from [Itembound: R
 - Microphone
 - Crying Obsidian Sword
 - Magma Sword
-- Scissors (Red)
-- Lightsaber (Red)
+- Scissors
+- Lightsaber
 - Dagger (underhand knife)
-- Crucible (Doom Eternal)
+- Doom Crucible
 - Bloody Knife
-- Chainsaw (Netherite)
+- Chainsaw
 - Stop Sign
 - Spoon
 - Bonk Hammer
@@ -37,14 +37,14 @@ Just about all of the textures for skins and such were pulled from [Itembound: R
 - Bus Stop Sign
 - Giant Rock Candy
 - Budget Masamune
-- Rapier (Diamond)
-- Pencil (Yellow)
-- Among Us Kill Button (yes, really)
+- Rapier
+- Pencil
+- Suspicious Kill Button
 - Dual Lightsaber
 - Snow Shovel
 - Battle Axe
-- Fidget Spinnner (red)
-- Energy Sword (Halo)
+- Fidget Spinnner
+- Halo Energy Sword
 
 Some of the knife skins also have special kill sound effects.
 
@@ -53,7 +53,7 @@ Some of the knife skins also have special kill sound effects.
 - Rain-bow
 - Candy Cannon
 - Compound Bow
-- Water Gun (Green)
+- Water Gun
 - Blaze Bow
 
 These pale in comparison to the knife skins because bows are a bit harder to get working with CustomModelData, and due to a general lack of bow textures.
