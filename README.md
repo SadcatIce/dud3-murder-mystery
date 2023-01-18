@@ -82,16 +82,12 @@ These pale in comparison to the knife skins because bows are a bit harder to get
 - Wario
 
 ## Music
-- Bowser's Theme (Super Mario 64)
 - Crazy Cap Shop
 - The Only Thing They Fear is You
 - Endless Stairs (Super Mario 64)
 - Mio Honda - Step!
 - Peach's Castle (Super Mario 64)
 - Sans (or is it?)
-- Sherbet Land (MKDD/MK8 Dual Mix)
 - SMB3 Ghost House (SNES)
-- Spamton
-- Wario's Gold Mine (MK8, Frontrunning)
 
 There's other miscellaneous sounds I didn't list here, but you'll probably eventually hear them one way or another. Who knows.
