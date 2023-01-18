@@ -242,15 +242,6 @@
 		]
 	},
 	
-	"mario-64-bowser-theme": {
-		"sounds": [
-			{
-				"name": "music/bowser-64-theme",
-				"stream": true
-			}
-		]
-	},
-	
 	"crazy-cap": {
 		"sounds": [
 			{
@@ -305,16 +296,7 @@
 		]
 	},
 	
-	"double-dash-sherbet-land": {
-		"sounds": [
-			{
-				"name": "music/sherbet-land",
-				"stream": true
-			}
-		]
-	},
-	
-	"smb3-ghost-house": {
+		"smb3-ghost-house": {
 		"sounds": [
 			{
 				"name": "music/smb3-ghost-house",
@@ -322,24 +304,7 @@
 			}
 		]
 	},
-	
-	"wii-warios-gold-mine": {
-		"sounds": [
-			{
-				"name": "music/warios-gold-mine",
-				"stream": true
-			}
-		]
-	},
-	
-	"spamton": {
-		"sounds": [
-			{
-				"name": "music/spamton",
-				"stream": true
-			}
-		]
-	},
+
 	"halo-betrayal": {
 		"sounds": [
 			{
@@ -387,5 +352,15 @@
 				"stream": true
 			}
 		]
-	}
+	},
+
+	"emergency-button": {
+		"sounds": [
+			{
+				"name": "misc/emergency-button",
+				"stream": false
+				}
+			]
+		}
 }
+
